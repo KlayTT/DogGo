@@ -1,4 +1,4 @@
-﻿#Took the readMe cause I'm lazy
+﻿# Took the readMe cause I'm lazy
 
 
 # Introduction to ASP.NET MVC Web Application
