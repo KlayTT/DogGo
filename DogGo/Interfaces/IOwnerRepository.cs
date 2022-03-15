@@ -1,6 +1,10 @@
-﻿namespace DogGo.Interfaces
+﻿using DogGo.Models;
+
+namespace DogGo.Interfaces
 {
-    public class IOwnerRepository
+    public interface IOwnerRepository
     {
+        List<Owner> GetAllOwners();
+        Owner GetOwnersById(int id);
     }
 }
